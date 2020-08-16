@@ -1,4 +1,4 @@
---
+---
 layout:     post   				    # 使用的布局（不需要改）
 title:      授权翻译|柳暗花明 				# 标题 
 subtitle:   Chinese edition of Second Chances
@@ -11,9 +11,9 @@ tags:								#标签
     - 短篇
     - intomyfantasy
     - AO3
-    - 中文纯享版
-   
---
+    - 中文纯享版   
+---
+
 # **第一章**
 
 如果一定要说的话，Mew并不知道他这段时间急于证明什么。
