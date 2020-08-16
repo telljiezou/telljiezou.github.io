@@ -133,6 +133,6 @@ Gulf再也忍受不住，喷薄而出……
 
 前列腺按摩方法:检查前病人先排空膀胱，检查者作直肠指检，自前列腺两侧向中央沟，自上而下纵向按摩二、三次， 再按摩中央沟一次，将前列腺液挤人尿道，并由尿道口滴出，直接收集前列腺液送验（图46-2)。急性前列腺炎时禁忌按摩。
 
-![前列腺按摩](img/前列腺按摩.png)
+![前列腺按摩](https://github.com/telljiezou/telljiezou.github.io/blob/master/img/%E5%89%8D%E5%88%97%E8%85%BA%E6%8C%89%E6%91%A9.png)
 
-![泌尿外科检查](img/泌尿外科检查.jpg)
+![泌尿外科检查](https://github.com/telljiezou/telljiezou.github.io/blob/master/img/%E6%B3%8C%E5%B0%BF%E5%A4%96%E7%A7%91%E6%A3%80%E6%9F%A5.jpg)
