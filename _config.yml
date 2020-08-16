@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "weibo·tell节奏大宝贝",
+        href: "https://www.weibo.com/u/5650343826/home?wvr=5"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "lofter·tell节奏大宝贝",
+        href: "https://telljiezoudabaobei.lofter.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "AO3·telljiezou",
+        href: "https://archiveofourown.org/users/telljiezou/works"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "bilibili·tell节奏大宝贝",
+        href: "https://space.bilibili.com/490382935?from=search&seid=12123939761494199867"
     }
 ]
