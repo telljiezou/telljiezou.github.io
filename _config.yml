@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "weibo·tell节奏大宝贝",
-        href: "https://www.weibo.com/u/5650343826/home?wvr=5"
+        href: "https://www.weibo.com/5650343826/profile?rightmod=1&wvr=6&mod=personinfo"
     },{
         title: "lofter·tell节奏大宝贝",
         href: "https://telljiezoudabaobei.lofter.com/"
